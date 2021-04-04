@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/filters/AutherFilter.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/OrderDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/UpdateProductController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/AddController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/web/insertProduct.jsp</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/CartDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/utils/DBUtils.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/AdminSearchProductController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/CreateUserController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/DeleteProductController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/LoginController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/ProductDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/ShowInsertPageController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/UpdatePhoneBillController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/DeletePhoneBillController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/InsertController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/SearchPhoneController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/daos/UserDAO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/daos/OrderDetailDAO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/CatagoryDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/MainController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/ProductErrorDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/LogoutController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/daos/OrderDAO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/daos/CatagoryDAO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/web/viewBillPage.jsp</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/controllers/BuyPhoneController.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/dtos/OrderDetailDTO.java</file>
+            <file>file:/C:/Users/ACER/Documents/NetBeansProjects/PhoneManagement/src/java/phat/daos/ProductDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
